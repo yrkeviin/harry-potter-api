@@ -18,12 +18,6 @@ INSERT INTO houses (name, founder) VALUES
     ('Corvinal', 'Rowena Ravenclaw'),
     ('Lufa-Lufa', 'Helga Hufflepuff');
 
-INSERT INTO wizards (name, house_id) VALUES 
-    ('Harry Potter', 1),
-    ('Draco Malfoy', 2),
-    ('Luna Lovegood', 3),
-    ('Cedrico Diggory', 4);
-
 INSERT INTO wizards (name, house_id) VALUES
     ('Hermione Granger', 1),
     ('Ron Weasley', 1),
